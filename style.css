@@ -1,0 +1,18 @@
+.fs-4 { font-size: 20px; }
+.background-color {
+    color:#2845ea;
+    font-weight: 700;
+}
+.mid-line { height: 3px; }
+button {
+    background: linear-gradient(86.74deg, #2845ea 8.62%, #0bcf7e 89.22%) !important;
+    border: none !important;
+    border-radius: 8px !important;
+    padding: 8px 11px !important;
+    width: 100% !important;
+    color: white !important;
+    font-weight: 500 !important;
+}
+.footer {
+    background: linear-gradient(86.74deg, #2845ea 8.62%, #0bcf7e 89.22%) !important;
+}
