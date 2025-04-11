@@ -1,6 +1,8 @@
 .fs-4 { font-size: 20px; }
 .background-color {
-    color:#2845ea;
+    background: linear-gradient(81.74deg, #2845ea 8.62%, #0bcf7e 53.22%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
     font-weight: 700;
 }
 .mid-line { height: 3px; }
