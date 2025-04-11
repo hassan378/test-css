@@ -1,0 +1,21 @@
+        .fs-4{
+            font-size: 16px;
+        }
+        .background-color{
+            background: linear-gradient(81.74deg, #2845ea 8.62%, #0bcf7e 53.22%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            font-weight: 700;
+        }
+        button{
+            background: linear-gradient(86.74deg, #2845ea 8.62%, #0bcf7e 89.22%) !important;
+            border: none !important;
+            border-radius: 8px !important;
+            padding: 8px 11px !important;
+            width: 100% !important;
+            color: white !important;
+            font-weight: 500 !important;
+        }
+        .cursor-pointer{
+            cursor: pointer;
+        }
