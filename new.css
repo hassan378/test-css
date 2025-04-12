@@ -17,3 +17,8 @@ button {
 .footer {
     background: linear-gradient(86.74deg, #2845ea 8.62%, #0bcf7e 89.22%) !important;
 }
+.bg-image{
+    background-image: url("{{ asset('img/pdf-bg.jpg') }}");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
